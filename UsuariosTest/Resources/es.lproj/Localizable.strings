@@ -1,0 +1,29 @@
+/*
+ Localizable.strings
+ UsuariosTest
+ Created by: Bruno Cardenas.
+*/
+
+"app_message" = "Mensaje";
+"ok" = "OK";
+"users_title" = "Usuarios";
+"users_search" = "Buscar usuarios";
+"detail_title" = "Detalle del usuario";
+"create_title" = "Nuevo usuario";
+"field_name" = "Nombre";
+"field_email" = "Email";
+"field_phone" = "Telefono";
+"save_changes" = "Guardar cambios";
+"create_user" = "Crear usuario";
+"get_location" = "Obtener ubicacion actual";
+"detail_saved" = "Cambios guardados localmente";
+"location_result" = "Latitud: %.5f\nLongitud: %.5f";
+"validation_name" = "El nombre es obligatorio";
+"validation_email_required" = "El email es obligatorio";
+"validation_email" = "Ingresa un email valido";
+"validation_phone_required" = "El telefono es obligatorio";
+"validation_phone" = "Ingresa un telefono valido";
+"error_location_permission" = "Se necesita permiso de ubicacion";
+"error_location_unavailable" = "No se pudo obtener la ubicacion";
+"error_user_not_found" = "No se encontro el usuario";
+"error_network" = "Sin conexion a internet";
