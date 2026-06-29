@@ -1,0 +1,14 @@
+# .gitignore
+# UsuariosTest
+# Created by: Bruno Cardenas.
+
+.DS_Store
+DerivedData/
+build/
+*.xcuserstate
+*.xcscmblueprint
+xcuserdata/
+*.moved-aside
+*.xccheckout
+*.xcworkspace/xcuserdata/
+*.xcodeproj/xcuserdata/
